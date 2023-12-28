@@ -1,5 +1,5 @@
 {
-    "name": "soarecostin/file-vault",
+    "name": "jelaucv/file-vault",
     "description": "",
     "keywords": [
         "laravel", "encrypt", "decrypt", "encryption", "decryption",
@@ -16,12 +16,12 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
-        "illuminate/support": "5.8.* || 6.*.* || ^7.0 || ^8.0"
+        "php": "^8.1",
+        "illuminate/support": "^10"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0|^6.0",
-        "phpunit/phpunit": "^8.0"
+        "phpunit/phpunit": "^10"
     },
     "autoload": {
         "psr-4": {

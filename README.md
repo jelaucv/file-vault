@@ -17,7 +17,7 @@ This package requires PHP 7.2 and Laravel 5.8 or higher.
 You can install the package via composer:
 
 ```bash
-composer require soarecostin/file-vault
+composer require jelaucv/file-vault
 ```
 
 ## Usage
